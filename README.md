@@ -1,1 +1,1 @@
-# hari-cal
+# Basic python package
