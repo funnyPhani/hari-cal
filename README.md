@@ -1,5 +1,9 @@
 # Basic python package
 
+## to tets the package use the link
+
+[GoogleColabLink](https://colab.research.google.com/drive/1eM-teLOPFBKA7-mDkVfQTobw_MaI8jNw?usp=sharing)
+
 ```python
 """
 Steps to install PyPI package
